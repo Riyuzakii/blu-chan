@@ -1,0 +1,8 @@
+set (CMAKE_CXX_STANDARD 11)
+cmake_minimum_required(VERSION 2.8)
+project( DisplayImage  )
+find_package( OpenCV REQUIRED  )
+add_executable( blue blue.cpp  )
+target_link_libraries( blue ${OpenCV_LIBS}  )
+add_executable( red red.cpp  )
+target_link_libraries( red ${OpenCV_LIBS}  )

@@ -1,0 +1,4 @@
+/home/ryuzakii/igvc/my-repos/blu-chan/CMakeFiles/rebuild_cache.dir
+/home/ryuzakii/igvc/my-repos/blu-chan/CMakeFiles/edit_cache.dir
+/home/ryuzakii/igvc/my-repos/blu-chan/CMakeFiles/red.dir
+/home/ryuzakii/igvc/my-repos/blu-chan/CMakeFiles/blue.dir
